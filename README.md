@@ -13,6 +13,10 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=tktajwar&show_icons=true&theme=dark"/>
 </details>
 <details>
+  <summary>Streaks</summary>
+  <img align="top" src="https://streak-stats.demolab.com?user=tktajwar&theme=dark"/>
+</details>
+<details>
   <summary>Most used languages</summary>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tktajwar&layout=donut&theme=dark"/>
 </details>
