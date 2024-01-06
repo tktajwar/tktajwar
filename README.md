@@ -14,5 +14,5 @@
 </details>
 <details>
   <summary>Most used languages</summary>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tktajwar&layout=compact&theme=dark"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tktajwar&theme=dark"/>
 </details>
