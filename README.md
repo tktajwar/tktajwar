@@ -20,3 +20,7 @@
   <summary>Most used languages</summary>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tktajwar&layout=donut&theme=dark"/>
 </details>
+
+## 🦒 Social
+
+[![Codeberg](https://img.shields.io/badge/tktajwar-white?logo=codeberg)](https://codeberg.org/tktajwar) [![Facebook](https://img.shields.io/badge/Takey%20Tajwar-3b5998?logo=facebook)](https://www.facebook.com/takey.tajwar) [![Youtube](https://img.shields.io/badge/Takey%20Tajwar-cc181e?logo=youtube)](https://www.youtube.com/@tktajwar) [![ArtStation](https://img.shields.io/badge/Tajwar-121109?logo=artstation)](https://www.artstation.com/tajwar)
