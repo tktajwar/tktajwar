@@ -23,4 +23,4 @@
 
 ## 🦒 Social
 
-[![Codeberg](https://img.shields.io/badge/%40tktajwar-white?logo=codeberg)](https://codeberg.org/tktajwar) [![Facebook](https://img.shields.io/badge/Takey%20Tajwar-3b5998?logo=facebook)](https://www.facebook.com/tktajwar) [![Youtube](https://img.shields.io/badge/Takey%20Tajwar-cc181e?logo=youtube)](https://www.youtube.com/@tktajwar) [![ArtStation](https://img.shields.io/badge/Tajwar-121109?logo=artstation)](https://www.artstation.com/tajwar)
+[![Codeberg](https://img.shields.io/badge/%40tktajwar-white?logo=codeberg)](https://codeberg.org/tktajwar) [![Discord](https://img.shields.io/badge/%40tktajwar-36393e?logo=discord)](https://discord.com/users/626968770807726081) [![Facebook](https://img.shields.io/badge/Takey%20Tajwar-3b5998?logo=facebook)](https://www.facebook.com/tktajwar) [![Youtube](https://img.shields.io/badge/Takey%20Tajwar-cc181e?logo=youtube)](https://www.youtube.com/@tktajwar) [![ArtStation](https://img.shields.io/badge/Tajwar-121109?logo=artstation)](https://www.artstation.com/tajwar)
