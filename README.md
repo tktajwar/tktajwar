@@ -3,7 +3,7 @@
 - 💛 I speak English, Bengali, and Spanish
 - ✨ I like cooking, films, and literature
 - 🐝 I'm doing my bachelor at *BRAC University*
-- 🦖 For development I am using *[Neovim](https://neovim.io/) and [GDB](https://www.sourceware.org/gdb/)*
+- 🦖 For development I use *[Emacs](https://www.gnu.org/software/emacs/), [GDB](https://www.sourceware.org/gdb/), [Hyprland](https://hyprland.org/), and [Magit](https://magit.vc/)*
 
 ## 🌿 GitHub Status
 
