@@ -3,7 +3,7 @@
 - 💛 I speak English, Bengali, and Spanish
 - ✨ I like cooking, films, and literature
 - 🐝 I'm doing my bachelor at *BRAC University*
-- 🦖 For development I use *[Emacs](https://www.gnu.org/software/emacs/), [GDB](https://www.sourceware.org/gdb/), [Hyprland](https://hyprland.org/), and [Magit](https://magit.vc/)*
+- 🦖 For development I use *[Emacs](https://www.gnu.org/software/emacs/), [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html), and [Magit](https://magit.vc/)*
 
 ## 🦒 Social
 
