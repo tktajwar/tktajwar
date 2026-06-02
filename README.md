@@ -1,9 +1,10 @@
 # 👋 ¡Hola! soy Tajwar
 
-- 💛 I speak English, Bengali, and Spanish
-- ✨ I enjoy cooking, films, video games, and literature
-- 🐝 I'm doing my bachelor at *BRAC University*
-- 🦖 For development I use *[Emacs](https://www.gnu.org/software/emacs/), [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html), and [Magit](https://magit.vc/)*
+💛 A software engineer and theoretical computer science enthusiast. I am mostly using either Rust or Python (Django)
+for my recent projects. I used to do freelance work but I'm looking to get in a startup company so I can be updated with
+what's popular in the industry. I enjoy cooking, reading books, playing 90s to early 2000s video games, and having strong
+opinions on the Internet. For development I use *[Emacs](https://www.gnu.org/software/emacs/),
+[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html), and [Magit](https://magit.vc/)*
 
 ## 🦒 Social
 
