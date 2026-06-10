@@ -1,6 +1,6 @@
 # A Software Engineer and Theoretical Computer-science Enthusiast
 
-Best known as the sole developer of the Bengali imageboard *[BanglaChan](https://github.com/tktajwar/bachan)*.
+Best known as the sole developer of the Bengali imageboard *[BanglaChan](https://bachan-production.up.railway.app/)*.
 I enjoy cooking, playing video games from early 2000s, watching art-house films,
 and having strong opinions on the Internet. For development I use
 *[Emacs](https://www.gnu.org/software/emacs/), [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html),
